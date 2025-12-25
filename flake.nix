@@ -1,4 +1,3 @@
-
 {
   description = "The development environment for Exo";
 
