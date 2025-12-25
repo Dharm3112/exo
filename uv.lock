@@ -13,6 +13,7 @@ supported-markers = [
 [manifest]
 members = [
     "exo",
+
     "exo-pyo3-bindings",
 ]
 
