@@ -1,5 +1,6 @@
 {
-  "nodes": {
+
+"nodes": {
     "fenix": {
       "inputs": {
         "nixpkgs": [
