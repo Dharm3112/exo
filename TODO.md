@@ -1,3 +1,4 @@
+
 2. Currently a lot of requests from the API are timing out, but we still process those requests internally. If an API request times out, we should cancel all corresponding tasks to that API request (why process a request with nobody listening).
 3. Task cancellation. When API http request gets cancelled, it should cancel corresponding task.
 4. I'd like to see profiled network latency / bandwidth.
